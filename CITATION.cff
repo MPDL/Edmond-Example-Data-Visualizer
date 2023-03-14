@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Edmond-Example-Data-Visualizer
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jan Oliver
+    family-names: Matthiesen
+    email: matthiesen@mpdl.mpg.de
+    orcid: 'https://orcid.org/0000-0001-6548-3654'
+    affiliation: Max Planck Digital Library
+repository-code: 'https://github.com/MPDL/Edmond-Example-Data-Visualizer'
