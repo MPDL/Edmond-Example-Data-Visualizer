@@ -10,4 +10,7 @@ authors:
     email: matthiesen@mpdl.mpg.de
     orcid: 'https://orcid.org/0000-0001-6548-3654'
     affiliation: Max Planck Digital Library
+identifiers:
+  - type: doi
+    value: 10.17617/1.99
 repository-code: 'https://github.com/MPDL/Edmond-Example-Data-Visualizer'
