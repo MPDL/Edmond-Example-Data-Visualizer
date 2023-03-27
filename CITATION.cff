@@ -14,3 +14,4 @@ identifiers:
   - type: doi
     value: 10.17617/1.99
 repository-code: 'https://github.com/MPDL/Edmond-Example-Data-Visualizer'
+license: MIT
